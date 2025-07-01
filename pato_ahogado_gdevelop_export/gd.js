@@ -1,0 +1,1 @@
+// Simulación del motor de GDevelop
